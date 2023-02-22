@@ -12,7 +12,7 @@
 }
 #image{
     margin-left: 163px;
-    background-color: #68B984;
+    background-color: #850000;
     height: 200px;
     width: 200px;
     border-radius: 50%;
@@ -42,7 +42,7 @@ img{
 }
 #box2{
     margin: auto;
-    background-color: #68B984;
+    background-color: #850000;
     height: 20px;
     width: 850px;
 }
@@ -80,7 +80,7 @@ img{
 }
 #box21, #box22, #box23{
     margin-bottom: 2%;
-    background-color: #68B984;
+    background-color: #850000;
     height: 20px;
     width: 400px;
 }

@@ -5,6 +5,11 @@ $(document).ready(function(){
         num += 1;
         if(num == 1){
             $("*").css("font-family", "Franklin Gothic Book")
+            $("*").css("background-color", "#F5EAEA")
+            $(".boxBottom").css("background-color", "#850000")
+            $("#endText").css("background-color", "#850000")
+            $("#endText").css("color", "#BAD7E9")
+            $(".box").css("background-color", "#850000")
             $("#layout1").slideUp("slow")
             $("#layout1").addClass("hide")
             $("#layout2").slideDown("slow")
